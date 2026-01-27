@@ -149,9 +149,9 @@ For permission requests, please contact [abhinandansinha239@gmail.com](mailto:ab
 
 ## 📊 Repository Stats
 
-![GitHub stars](https://img.shields.io/github/stars/Abhinandansinha01/portfolio-2026?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Abhinandansinha01/portfolio-2026?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/Abhinandansinha01/portfolio-2026?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Abhinandansinha01/portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Abhinandansinha01/portfolio?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Abhinandansinha01/portfolio?style=social)
 
 ---
 
