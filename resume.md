@@ -49,14 +49,14 @@ Phagwara, Punjab | +91 7667074905 | <abhinandansinha239@gmail.com>
 * Implemented automated health checks and rollback mechanisms, increasing deployment reliability by **99.9%**.
 * Containerized applications using **Docker** and deployed on **AWS ECS Fargate** for scalable and serverless compute management.
 
-### Smart Expense Tracker (Personal Finance App)
+### Automated Resume Parser & Job Matcher (AI Recruitment Tool)
 
-*Technologies: React.js, Node.js, AWS (DynamoDB, Cognito, API Gateway), Chart.js*
+*Technologies: React.js, Python, AWS (Textract, Lambda, S3, DynamoDB), OpenAI API*
 
-* Built a comprehensive personal finance dashboard allowing users to track income, expenses, and savings in real-time.
-* Implemented secure user authentication and authorization using **AWS Cognito**.
-* Designed a serverless backend with **AWS Lambda** and **API Gateway** interacting with **DynamoDB** for high-speed data retrieval.
-* Integrated **Chart.js** to visualize spending habits, helping users identify trends and improve financial health.
+* Developed an AI-powered recruitment platform that automates resume screening, reducing manual review time by **70%**.
+* Integrated **AWS Textract** to perform OCR on PDF resumes, extracting key structured data (Skills, Experience, Availability).
+* Built a serverless backend using **AWS Lambda** to process documents and store parsed metadata in **DynamoDB**.
+* Implemented intelligent matching logic to score candidates against job descriptions, streamlining talent acquisition.
 
 ### Appointment Booking System (Doctor / Salon / Service)
 
