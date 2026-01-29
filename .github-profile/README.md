@@ -81,12 +81,12 @@ I'm a **Cloud Engineer & Full Stack Developer** passionate about building **resi
 - 🔧 **Tech**: AWS CodePipeline, CodeDeploy, ECS Fargate, Docker
 - 💡 **Impact**: Automated traffic shifting with integrated smoke tests
 
-### 💳 [Smart Expense Tracker](https://github.com/Abhinandansinha01/portfolio/tree/main/smart-expense-tracker)
+### 📄 [Automated Resume Parser](https://github.com/Abhinandansinha01/portfolio/tree/main/automated-resume-parser)
 
-**Serverless personal finance dashboard** with real-time analytics
+**AI-powered recruitment tool** for instant candidate screening
 
-- 🔧 **Tech**: React.js, Node.js, AWS Cognito, DynamoDB, Chart.js
-- 💡 **Impact**: AI-driven spending alerts and visualization
+- 🔧 **Tech**: AWS Textract, Lambda, React.js, Python
+- 💡 **Impact**: Extracts unstructured data and calculates Match Score using AI
 
 ### 📅 [Appointment Booking System](https://github.com/Abhinandansinha01/portfolio/tree/main/appointment-booking-system)
 
