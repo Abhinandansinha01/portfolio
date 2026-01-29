@@ -130,9 +130,7 @@ I'm always open to interesting conversations and collaboration opportunities!
   <a href="https://linkedin.com/in/abhinandansinha01">
     <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://abhinandansinha01.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/View_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
+  <a href="https://abhinandansinha01.github.io/portfolio/"><img src="https://img.shields.io/badge/View_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:abhinandansinha239@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
